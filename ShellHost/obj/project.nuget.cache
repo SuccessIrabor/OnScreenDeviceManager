@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uIP69hnubQhQRMI7AVtfHI9ige/udqrC4LtoN7oe51DF6EVbVK//in1gza9Gs6wbpjCLVDk3SrLEsWadnOt7Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\OnScreenDeviceManager\\ShellHost\\ShellHost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.19\\microsoft.windows.sdk.net.ref.10.0.19041.19.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Debug\net5.0\ShellHost.exe
+C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Debug\net5.0\ShellHost.deps.json
+C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Debug\net5.0\ShellHost.runtimeconfig.json
+C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Debug\net5.0\ShellHost.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Debug\net5.0\ShellHost.dll
+C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Debug\net5.0\ref\ShellHost.dll
+C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Debug\net5.0\ShellHost.pdb
+C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\obj\Debug\net5.0\ShellHost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\obj\Debug\net5.0\ShellHost.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\obj\Debug\net5.0\ShellHost.AssemblyInfo.cs
+C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\obj\Debug\net5.0\ShellHost.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\obj\Debug\net5.0\ShellHost.dll
+C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\obj\Debug\net5.0\ref\ShellHost.dll
+C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\obj\Debug\net5.0\ShellHost.pdb
+C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\obj\Debug\net5.0\ShellHost.genruntimeconfig.cache
+C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\obj\Debug\net5.0\ShellHost.csproj.AssemblyReference.cache
