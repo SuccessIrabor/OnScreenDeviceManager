@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-B188ERR</Machine>
+    <WindowsUser>Dell</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>Vertix.OnScreenDeviceManager</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Vertix, O=Vertix, C=US</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\obj\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\bin\x64\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>D100C60687EACCD84771B8E15F73971788870BED82A1905AAB6FF720663CFAD5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Vertix.OnScreenDeviceManager_1.0.2.0_x64__kdb8eb6sxt8mw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Vertix.OnScreenDeviceManager_kdb8eb6sxt8mw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Vertix.OnScreenDeviceManager</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Vertix, O=Vertix, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.2.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\bin\x64\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-10-05T07:14:22.886</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2021-09-23T13:25:07.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2021-09-23T13:25:06.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2021-09-23T13:25:07.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2021-09-23T13:25:07.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2021-09-23T13:25:07.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <Modified>2021-09-23T13:25:07.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\vertix-favicon-150x150.png">
+      <PackagePath>Images\vertix-favicon-150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-10-05T06:57:07.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\vertix-favicon-310x150.png">
+      <PackagePath>Images\vertix-favicon-310x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-10-05T07:00:11.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\vertix-favicon-44x44.png">
+      <PackagePath>Images\vertix-favicon-44x44.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-10-05T07:02:33.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\vertix-favicon-50x50.png">
+      <PackagePath>Images\vertix-favicon-50x50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-10-05T07:03:19.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\vertix-favicon-620x300.png">
+      <PackagePath>Images\vertix-favicon-620x300.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-10-05T07:01:42.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\vertix-favicon.png">
+      <PackagePath>Images\vertix-favicon.png</PackagePath>
+      <Modified>2021-10-05T05:42:09.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2021-09-23T13:25:07.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\bin\x64\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2021-10-05T07:14:22.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.19\lib\Microsoft.Windows.SDK.NET.dll">
+      <PackagePath>ShellHost\Microsoft.Windows.SDK.NET.dll</PackagePath>
+      <Modified>2021-07-15T21:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.19\lib\WinRT.Runtime.dll">
+      <PackagePath>ShellHost\WinRT.Runtime.dll</PackagePath>
+      <Modified>2021-07-15T21:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\ShellHost.deps.json">
+      <PackagePath>ShellHost\ShellHost.deps.json</PackagePath>
+      <Modified>2021-10-05T06:29:20.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\ShellHost.runtimeconfig.dev.json">
+      <PackagePath>ShellHost\ShellHost.runtimeconfig.dev.json</PackagePath>
+      <Modified>2021-10-05T06:29:20.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\obj\Release\net5.0-windows10.0.19041\apphost.exe">
+      <PackagePath>ShellHost\ShellHost.exe</PackagePath>
+      <Modified>2021-10-05T06:29:20.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\ShellHost.runtimeconfig.json">
+      <PackagePath>ShellHost\ShellHost.runtimeconfig.json</PackagePath>
+      <Modified>2021-10-05T06:29:20.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\ShellHost.dll">
+      <PackagePath>ShellHost\ShellHost.dll</PackagePath>
+      <Modified>2021-10-05T06:29:19.927</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x64\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2021-09-23T13:31:31.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x64\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2021-09-23T13:31:31.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2021-09-23T13:31:31.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2021-09-23T13:31:31.891</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2021-09-23T13:31:31.893</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x64\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2021-09-23T13:31:31.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x64\Release\ilc\Assets\vertix-favicon-150x150.png">
+      <PackagePath>Assets\vertix-favicon-150x150.png</PackagePath>
+      <Modified>2021-10-05T06:57:07.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x64\Release\ilc\Assets\vertix-favicon-310x150.png">
+      <PackagePath>Assets\vertix-favicon-310x150.png</PackagePath>
+      <Modified>2021-10-05T07:00:11.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x64\Release\ilc\Assets\vertix-favicon-44x44.png">
+      <PackagePath>Assets\vertix-favicon-44x44.png</PackagePath>
+      <Modified>2021-10-05T07:02:33.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x64\Release\ilc\Assets\vertix-favicon-50x50.png">
+      <PackagePath>Assets\vertix-favicon-50x50.png</PackagePath>
+      <Modified>2021-10-05T07:03:19.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x64\Release\ilc\Assets\vertix-favicon-620x300.png">
+      <PackagePath>Assets\vertix-favicon-620x300.png</PackagePath>
+      <Modified>2021-10-05T07:01:42.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x64\Release\ilc\Assets\vertix-favicon.png">
+      <PackagePath>Assets\vertix-favicon.png</PackagePath>
+      <Modified>2021-10-05T05:42:09.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2021-09-23T13:31:31.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x64\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2021-02-05T01:15:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x64\Release\ilc\OnScreenDeviceManager.dll">
+      <PackagePath>OnScreenDeviceManager.dll</PackagePath>
+      <Modified>2021-10-05T07:14:21.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x64\Release\ilc\OnScreenDeviceManager.exe">
+      <PackagePath>OnScreenDeviceManager.exe</PackagePath>
+      <Modified>2021-10-05T07:14:21.782</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.2.10-rel-29722-00\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.2.10-rel-29722-00\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.2.10-rel-29722-00\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.2.10-rel-29722-00\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.10-rel-29722-00\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.10-rel-29722-00\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.2.10-rel-29722-00\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.2.10-rel-29722-00\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.2.10-rel-29722-00\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.2.10-rel-29722-00\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.2.10-rel-29722-00\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.2.10-rel-29722-00\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.10-rel-29722-00\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.10-rel-29722-00\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.2.10-rel-29722-00\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Dell\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.2.10-rel-29722-00\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

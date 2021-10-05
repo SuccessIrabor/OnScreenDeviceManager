@@ -8,8 +8,8 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>d3e964dc-9265-4243-b97c-2dacb7c11dac</PackageIdentityName>
-    <PackageIdentityPublisher>CN=Dell</PackageIdentityPublisher>
+    <PackageIdentityName>Vertix.OnScreenDeviceManager</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Vertix, O=Vertix, C=US</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
@@ -20,24 +20,23 @@
     <WindowsSdkPath>
     </WindowsSdkPath>
     <LayoutDir>C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>F52D129A8601E677F1191075F0D36FDC4767BC8BC89D43910FA2EEA5B861EB38</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>d3e964dc-9265-4243-b97c-2dacb7c11dac_1.0.0.0_x86__4npz3a3d750km</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>d3e964dc-9265-4243-b97c-2dacb7c11dac_4npz3a3d750km!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>d3e964dc-9265-4243-b97c-2dacb7c11dac</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=Dell</RegisteredPackagePublisher>
+    <RegisteredManifestChecksum>9384F731E9DF76F0587B4C6A94FF8BEC21871F794A6DE47149FC160F0D956F68</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Vertix.OnScreenDeviceManager_1.0.0.0_x86__kdb8eb6sxt8mw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Vertix.OnScreenDeviceManager_kdb8eb6sxt8mw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Vertix.OnScreenDeviceManager</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Vertix, O=Vertix, C=US</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\bin\x86\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-10-05T04:27:38.271</Modified>
+      <Modified>2021-10-05T06:16:35.318</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\SplashScreen.scale-200.png">
       <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-09-23T13:25:07.002</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\LockScreenLogo.scale-200.png">
@@ -46,32 +45,32 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Square150x150Logo.scale-200.png">
       <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-09-23T13:25:07.003</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Square44x44Logo.scale-200.png">
       <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-09-23T13:25:07.004</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-09-23T13:25:07.005</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\StoreLogo.png">
       <PackagePath>Images\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-09-23T13:25:07.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\vertix-favicon.png">
+      <PackagePath>Images\vertix-favicon.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-10-05T05:42:09.032</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Wide310x150Logo.scale-200.png">
       <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-09-23T13:25:07.011</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-10-04T14:59:59.596</Modified>
+      <Modified>2021-10-05T06:16:35.170</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.19\lib\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>ShellHost\Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -103,7 +102,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Debug\OnScreenDeviceManager.exe">
       <PackagePath>entrypoint\OnScreenDeviceManager.exe</PackagePath>
-      <Modified>2021-10-05T04:27:35.921</Modified>
+      <Modified>2021-10-05T06:16:32.912</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -117,9 +116,9 @@
       <PackagePath>ShellHostService.winmd</PackagePath>
       <Modified>2021-10-01T06:04:48.848</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2021-09-25T17:42:52.385</Modified>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Assets\vertix-favicon.png">
+      <PackagePath>Assets\vertix-favicon.png</PackagePath>
+      <Modified>2021-10-05T05:42:09.032</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -149,6 +148,10 @@
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <Modified>2021-09-23T13:31:31.896</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2021-09-25T17:42:52.385</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Debug\OnScreenDeviceManager.xr.xml">
       <PackagePath>OnScreenDeviceManager.xr.xml</PackagePath>
       <Modified>2021-10-04T16:19:01.598</Modified>
@@ -167,7 +170,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Debug\Core\OnScreenDeviceManager.exe">
       <PackagePath>OnScreenDeviceManager.exe</PackagePath>
-      <Modified>2021-10-05T04:27:37.745</Modified>
+      <Modified>2021-10-05T06:16:34.783</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

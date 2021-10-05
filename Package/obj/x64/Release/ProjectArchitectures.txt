@@ -1,0 +1,2 @@
+C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\OnScreenDeviceManager.csproj;x64
+C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Package.wapproj;x64

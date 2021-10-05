@@ -130,6 +130,12 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\vertix-favicon-150x150.png" />
+    <Content Include="Assets\vertix-favicon-310x150.png" />
+    <Content Include="Assets\vertix-favicon-44x44.png" />
+    <Content Include="Assets\vertix-favicon-50x50.png" />
+    <Content Include="Assets\vertix-favicon-620x300.png" />
+    <Content Include="Assets\vertix-favicon.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
@@ -158,12 +164,6 @@
     <SDKReference Include="WindowsDesktop, Version=10.0.19041.0">
       <Name>Windows Desktop Extensions for the UWP</Name>
     </SDKReference>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ShellHostService\ShellHostService.csproj">
-      <Project>{7ca42418-453e-4551-b552-a43c8070ce30}</Project>
-      <Name>ShellHostService</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>

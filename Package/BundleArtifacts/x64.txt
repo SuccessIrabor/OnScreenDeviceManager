@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\bin\x64\Release\Package_1.0.2.0_x64.msix
+SymbolPackage=C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\obj\x64\Release\Symbols\Package_1.0.2.0_x64.appxsym

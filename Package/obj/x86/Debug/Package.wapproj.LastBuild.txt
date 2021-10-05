@@ -4,6 +4,7 @@ C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Square150x150Log
 C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Square44x44Logo.scale-200.png
 C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Square44x44Logo.targetsize-24_altform-unplated.png
 C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\StoreLogo.png
+C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\vertix-favicon.png
 C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Wide310x150Logo.scale-200.png
 C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\bin\x86\Debug\resources.pri
 C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHostService\bin\x86\Debug\ShellHostService.pdb
@@ -20,7 +21,7 @@ C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\D
 C:\Users\Dell\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll
 C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd
 C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHostService\bin\x86\Debug\ShellHostService.winmd
-C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Properties\Default.rd.xml
+C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Assets\vertix-favicon.png
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Assets\LockScreenLogo.scale-200.png
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Assets\SplashScreen.scale-200.png
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Assets\Square150x150Logo.scale-200.png
@@ -28,6 +29,7 @@ C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Assets\Sq
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Assets\StoreLogo.png
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Assets\Wide310x150Logo.scale-200.png
+C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Properties\Default.rd.xml
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Debug\OnScreenDeviceManager.xr.xml
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Debug\App.xbf
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Debug\MainPage.xbf

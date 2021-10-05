@@ -8,8 +8,8 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>d3e964dc-9265-4243-b97c-2dacb7c11dac</PackageIdentityName>
-    <PackageIdentityPublisher>CN=Dell</PackageIdentityPublisher>
+    <PackageIdentityName>Vertix.OnScreenDeviceManager</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Vertix, O=Vertix, C=US</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
@@ -27,30 +27,28 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\SplashScreen.scale-200.png">
       <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\LockScreenLogo.scale-200.png">
       <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Square150x150Logo.scale-200.png">
       <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Square44x44Logo.scale-200.png">
       <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\StoreLogo.png">
       <PackagePath>Images\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\vertix-favicon.png">
+      <PackagePath>Images\vertix-favicon.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Wide310x150Logo.scale-200.png">
       <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
@@ -88,8 +86,8 @@
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHostService\bin\x86\Debug\ShellHostService.winmd">
       <PackagePath>ShellHostService.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Assets\vertix-favicon.png">
+      <PackagePath>Assets\vertix-favicon.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -111,6 +109,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Debug\OnScreenDeviceManager.xr.xml">
       <PackagePath>OnScreenDeviceManager.xr.xml</PackagePath>
