@@ -7,11 +7,11 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="d3e964dc-9265-4243-b97c-2dacb7c11dac" Publisher="CN=Dell" Version="1.0.0.0" ProcessorArchitecture="x86" />
+  <Identity Name="Vertix.OnScreenDeviceManager" Publisher="CN=Vertix, O=Vertix, C=US" Version="1.0.0.0" ProcessorArchitecture="x86" />
   <Properties>
-    <DisplayName>Package</DisplayName>
-    <PublisherDisplayName>Dell</PublisherDisplayName>
-    <Logo>Images\StoreLogo.png</Logo>
+    <DisplayName>OnScreenDeviceManager</DisplayName>
+    <PublisherDisplayName>Vertix</PublisherDisplayName>
+    <Logo>Images\vertix-favicon.png</Logo>
   </Properties>
   <Dependencies>
     <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.19041.0" MaxVersionTested="10.0.19041.0" />
@@ -25,9 +25,9 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="OnScreenDeviceManager.exe" EntryPoint="OnScreenDeviceManager.App">
-      <uap:VisualElements DisplayName="Package" Description="Package" BackgroundColor="transparent" Square150x150Logo="Images\Square150x150Logo.png" Square44x44Logo="Images\Square44x44Logo.png">
-        <uap:DefaultTile Wide310x150Logo="Images\Wide310x150Logo.png" />
-        <uap:SplashScreen Image="Images\SplashScreen.png" />
+      <uap:VisualElements DisplayName="OnScreenDeviceManager" Description="Vertix.OnScreenDeviceManager" BackgroundColor="transparent" Square150x150Logo="Images\vertix-favicon.png" Square44x44Logo="Images\vertix-favicon.png">
+        <uap:DefaultTile Wide310x150Logo="Images\vertix-favicon.png" />
+        <uap:SplashScreen Image="Images\vertix-favicon.png" />
       </uap:VisualElements>
       <Extensions>
         <desktop:Extension Category="windows.fullTrustProcess" Executable="ShellHost\ShellHost.exe">

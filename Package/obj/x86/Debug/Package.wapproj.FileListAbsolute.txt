@@ -47,3 +47,4 @@ C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\obj\x86\Debug\qualifier
 C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\obj\x86\Debug\Package.wapproj.LastBuild.txt
+C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\bin\x86\Debug\Assets\vertix-favicon.png
