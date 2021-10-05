@@ -9,14 +9,14 @@
   <Identity
     Name="OnScreenDeviceManager"
     Publisher="CN=Vertix, O=Vertix, C=US"
-    Version="1.0.0.0" />
+    Version="1.0.3.0" />
 
   <mp:PhoneIdentity PhoneProductId="08fffdb7-1f3f-43ff-8434-93e2062c211a" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>OnScreenDeviceManager</DisplayName>
     <PublisherDisplayName>Vertix</PublisherDisplayName>
-    <Logo>Assets\vertix-favicon.png</Logo>
+    <Logo>Assets\vertix-favicon-50x50.png</Logo>
   </Properties>
 
   <Dependencies>
@@ -33,12 +33,12 @@
       EntryPoint="OnScreenDeviceManager.App">
       <uap:VisualElements
         DisplayName="OnScreenDeviceManager"
-        Square150x150Logo="Assets\vertix-favicon.png"
-        Square44x44Logo="Assets\vertix-favicon.png"
+        Square150x150Logo="Assets\vertix-favicon-150x150.png"
+        Square44x44Logo="Assets\vertix-favicon-44x44.png"
         Description="OnScreenDeviceManager"
         BackgroundColor="transparent">
-        <uap:DefaultTile Wide310x150Logo="Assets\vertix-favicon.png"/>
-        <uap:SplashScreen Image="Assets\vertix-favicon.png" />
+        <uap:DefaultTile Wide310x150Logo="Assets\vertix-favicon-310x150.png"/>
+        <uap:SplashScreen Image="Assets\vertix-favicon-620x300.png" />
       </uap:VisualElements>
 	  <Extensions>
 		  <uap:Extension Category="windows.appService">

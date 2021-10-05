@@ -51,6 +51,6 @@
 /WinMD:"C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\WinMetadata\Windows.UI.Xaml.Hosting.HostingContract.winmd"
 /WinMD:"C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\WinMetadata\Windows.Web.Http.Diagnostics.HttpDiagnosticsContract.winmd"
 /WinMD:"C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd"
-/VSTelemetrySessionSettings:"{\"IsOptedIn\":true,\"HostName\":\"Dev14\",\"AppInsightsInstrumentationKey\":\"f144292e-e3b2-4011-ac90-20e5c03fbce5\",\"AsimovInstrumentationKey\":\"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\",\"AppId\":1001,\"UserId\":\"8d0e6cf7-6b54-4ab2-bac0-37ffb5440711\",\"Id\":\"c841e536-7e15-41c2-9e50-ea757a31d265\",\"ProcessStartTime\":637690070778642032}"
+/VSTelemetrySessionSettings:"{\"IsOptedIn\":true,\"HostName\":\"Dev14\",\"AppInsightsInstrumentationKey\":\"f144292e-e3b2-4011-ac90-20e5c03fbce5\",\"AsimovInstrumentationKey\":\"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\",\"AppId\":1001,\"UserId\":\"8d0e6cf7-6b54-4ab2-bac0-37ffb5440711\",\"Id\":\"36987f7c-513c-4366-b927-8d4cfd4ec961\",\"ProcessStartTime\":637690129248023302}"
 /RdXmlPath:"C:\Users\Dell\.nuget\packages\microsoft.net.native.compiler\2.2.10-rel-29722-00\tools\LibraryXML"
 /RunOnlyPreDR

@@ -535,3 +535,13 @@ C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\R
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.UI.Xaml.index.txt
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\intermediate\rhbindargs.OnScreenDeviceManager.rsp
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\intermediate\System.Private.OnScreenDeviceManager.Generated.dll
+C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\Assets\vertix-favicon-150x150.png
+C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\Assets\vertix-favicon-310x150.png
+C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\Assets\vertix-favicon-44x44.png
+C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\Assets\vertix-favicon-50x50.png
+C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\Assets\vertix-favicon-620x300.png
+C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\Assets\vertix-favicon-150x150.png
+C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\Assets\vertix-favicon-310x150.png
+C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\Assets\vertix-favicon-44x44.png
+C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\Assets\vertix-favicon-50x50.png
+C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\Assets\vertix-favicon-620x300.png

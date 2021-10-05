@@ -43,9 +43,28 @@
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\StoreLogo.png">
       <PackagePath>Images\StoreLogo.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\vertix-favicon-150x150.png">
+      <PackagePath>Images\vertix-favicon-150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\vertix-favicon-310x150.png">
+      <PackagePath>Images\vertix-favicon-310x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\vertix-favicon-44x44.png">
+      <PackagePath>Images\vertix-favicon-44x44.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\vertix-favicon-50x50.png">
+      <PackagePath>Images\vertix-favicon-50x50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\vertix-favicon-620x300.png">
+      <PackagePath>Images\vertix-favicon-620x300.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\vertix-favicon.png">
       <PackagePath>Images\vertix-favicon.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\Images\Wide310x150Logo.scale-200.png">
       <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
@@ -53,26 +72,683 @@
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\Package\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.19\lib\Microsoft.Windows.SDK.NET.dll">
-      <PackagePath>ShellHost\Microsoft.Windows.SDK.NET.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.19\lib\WinRT.Runtime.dll">
-      <PackagePath>ShellHost\WinRT.Runtime.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\ShellHost.deps.json">
-      <PackagePath>ShellHost\ShellHost.deps.json</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\ShellHost.runtimeconfig.dev.json">
-      <PackagePath>ShellHost\ShellHost.runtimeconfig.dev.json</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\obj\Release\net5.0-windows10.0.19041\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\ShellHost.exe">
       <PackagePath>ShellHost\ShellHost.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\ShellHost.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\ShellHost.dll">
+      <PackagePath>ShellHost\ShellHost.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\ShellHost.deps.json">
+      <PackagePath>ShellHost\ShellHost.deps.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\ShellHost.runtimeconfig.json">
       <PackagePath>ShellHost\ShellHost.runtimeconfig.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\ShellHost.dll">
-      <PackagePath>ShellHost\ShellHost.dll</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\Microsoft.CSharp.dll">
+      <PackagePath>ShellHost\Microsoft.CSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\Microsoft.VisualBasic.Core.dll">
+      <PackagePath>ShellHost\Microsoft.VisualBasic.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\Microsoft.VisualBasic.dll">
+      <PackagePath>ShellHost\Microsoft.VisualBasic.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\Microsoft.Win32.Primitives.dll">
+      <PackagePath>ShellHost\Microsoft.Win32.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\Microsoft.Win32.Registry.dll">
+      <PackagePath>ShellHost\Microsoft.Win32.Registry.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.AppContext.dll">
+      <PackagePath>ShellHost\System.AppContext.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Buffers.dll">
+      <PackagePath>ShellHost\System.Buffers.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Collections.Concurrent.dll">
+      <PackagePath>ShellHost\System.Collections.Concurrent.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Collections.Immutable.dll">
+      <PackagePath>ShellHost\System.Collections.Immutable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Collections.NonGeneric.dll">
+      <PackagePath>ShellHost\System.Collections.NonGeneric.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Collections.Specialized.dll">
+      <PackagePath>ShellHost\System.Collections.Specialized.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Collections.dll">
+      <PackagePath>ShellHost\System.Collections.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.ComponentModel.Annotations.dll">
+      <PackagePath>ShellHost\System.ComponentModel.Annotations.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.ComponentModel.DataAnnotations.dll">
+      <PackagePath>ShellHost\System.ComponentModel.DataAnnotations.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.ComponentModel.EventBasedAsync.dll">
+      <PackagePath>ShellHost\System.ComponentModel.EventBasedAsync.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.ComponentModel.Primitives.dll">
+      <PackagePath>ShellHost\System.ComponentModel.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.ComponentModel.TypeConverter.dll">
+      <PackagePath>ShellHost\System.ComponentModel.TypeConverter.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.ComponentModel.dll">
+      <PackagePath>ShellHost\System.ComponentModel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Configuration.dll">
+      <PackagePath>ShellHost\System.Configuration.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Console.dll">
+      <PackagePath>ShellHost\System.Console.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Core.dll">
+      <PackagePath>ShellHost\System.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Data.Common.dll">
+      <PackagePath>ShellHost\System.Data.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Data.DataSetExtensions.dll">
+      <PackagePath>ShellHost\System.Data.DataSetExtensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Data.dll">
+      <PackagePath>ShellHost\System.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Diagnostics.Contracts.dll">
+      <PackagePath>ShellHost\System.Diagnostics.Contracts.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Diagnostics.Debug.dll">
+      <PackagePath>ShellHost\System.Diagnostics.Debug.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Diagnostics.DiagnosticSource.dll">
+      <PackagePath>ShellHost\System.Diagnostics.DiagnosticSource.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Diagnostics.FileVersionInfo.dll">
+      <PackagePath>ShellHost\System.Diagnostics.FileVersionInfo.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Diagnostics.Process.dll">
+      <PackagePath>ShellHost\System.Diagnostics.Process.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Diagnostics.StackTrace.dll">
+      <PackagePath>ShellHost\System.Diagnostics.StackTrace.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Diagnostics.TextWriterTraceListener.dll">
+      <PackagePath>ShellHost\System.Diagnostics.TextWriterTraceListener.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Diagnostics.Tools.dll">
+      <PackagePath>ShellHost\System.Diagnostics.Tools.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Diagnostics.TraceSource.dll">
+      <PackagePath>ShellHost\System.Diagnostics.TraceSource.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Diagnostics.Tracing.dll">
+      <PackagePath>ShellHost\System.Diagnostics.Tracing.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Drawing.Primitives.dll">
+      <PackagePath>ShellHost\System.Drawing.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Drawing.dll">
+      <PackagePath>ShellHost\System.Drawing.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Dynamic.Runtime.dll">
+      <PackagePath>ShellHost\System.Dynamic.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Formats.Asn1.dll">
+      <PackagePath>ShellHost\System.Formats.Asn1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Globalization.Calendars.dll">
+      <PackagePath>ShellHost\System.Globalization.Calendars.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Globalization.Extensions.dll">
+      <PackagePath>ShellHost\System.Globalization.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Globalization.dll">
+      <PackagePath>ShellHost\System.Globalization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.IO.Compression.Brotli.dll">
+      <PackagePath>ShellHost\System.IO.Compression.Brotli.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.IO.Compression.FileSystem.dll">
+      <PackagePath>ShellHost\System.IO.Compression.FileSystem.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.IO.Compression.ZipFile.dll">
+      <PackagePath>ShellHost\System.IO.Compression.ZipFile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.IO.Compression.dll">
+      <PackagePath>ShellHost\System.IO.Compression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.IO.FileSystem.AccessControl.dll">
+      <PackagePath>ShellHost\System.IO.FileSystem.AccessControl.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.IO.FileSystem.DriveInfo.dll">
+      <PackagePath>ShellHost\System.IO.FileSystem.DriveInfo.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.IO.FileSystem.Primitives.dll">
+      <PackagePath>ShellHost\System.IO.FileSystem.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.IO.FileSystem.Watcher.dll">
+      <PackagePath>ShellHost\System.IO.FileSystem.Watcher.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.IO.FileSystem.dll">
+      <PackagePath>ShellHost\System.IO.FileSystem.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.IO.IsolatedStorage.dll">
+      <PackagePath>ShellHost\System.IO.IsolatedStorage.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.IO.MemoryMappedFiles.dll">
+      <PackagePath>ShellHost\System.IO.MemoryMappedFiles.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.IO.Pipes.AccessControl.dll">
+      <PackagePath>ShellHost\System.IO.Pipes.AccessControl.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.IO.Pipes.dll">
+      <PackagePath>ShellHost\System.IO.Pipes.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.IO.UnmanagedMemoryStream.dll">
+      <PackagePath>ShellHost\System.IO.UnmanagedMemoryStream.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.IO.dll">
+      <PackagePath>ShellHost\System.IO.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Linq.Expressions.dll">
+      <PackagePath>ShellHost\System.Linq.Expressions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Linq.Parallel.dll">
+      <PackagePath>ShellHost\System.Linq.Parallel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Linq.Queryable.dll">
+      <PackagePath>ShellHost\System.Linq.Queryable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Linq.dll">
+      <PackagePath>ShellHost\System.Linq.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Memory.dll">
+      <PackagePath>ShellHost\System.Memory.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.Http.Json.dll">
+      <PackagePath>ShellHost\System.Net.Http.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.Http.dll">
+      <PackagePath>ShellHost\System.Net.Http.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.HttpListener.dll">
+      <PackagePath>ShellHost\System.Net.HttpListener.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.Mail.dll">
+      <PackagePath>ShellHost\System.Net.Mail.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.NameResolution.dll">
+      <PackagePath>ShellHost\System.Net.NameResolution.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.NetworkInformation.dll">
+      <PackagePath>ShellHost\System.Net.NetworkInformation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.Ping.dll">
+      <PackagePath>ShellHost\System.Net.Ping.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.Primitives.dll">
+      <PackagePath>ShellHost\System.Net.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.Requests.dll">
+      <PackagePath>ShellHost\System.Net.Requests.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.Security.dll">
+      <PackagePath>ShellHost\System.Net.Security.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.ServicePoint.dll">
+      <PackagePath>ShellHost\System.Net.ServicePoint.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.Sockets.dll">
+      <PackagePath>ShellHost\System.Net.Sockets.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.WebClient.dll">
+      <PackagePath>ShellHost\System.Net.WebClient.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.WebHeaderCollection.dll">
+      <PackagePath>ShellHost\System.Net.WebHeaderCollection.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.WebProxy.dll">
+      <PackagePath>ShellHost\System.Net.WebProxy.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.WebSockets.Client.dll">
+      <PackagePath>ShellHost\System.Net.WebSockets.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.WebSockets.dll">
+      <PackagePath>ShellHost\System.Net.WebSockets.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Net.dll">
+      <PackagePath>ShellHost\System.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Numerics.Vectors.dll">
+      <PackagePath>ShellHost\System.Numerics.Vectors.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Numerics.dll">
+      <PackagePath>ShellHost\System.Numerics.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.ObjectModel.dll">
+      <PackagePath>ShellHost\System.ObjectModel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Private.DataContractSerialization.dll">
+      <PackagePath>ShellHost\System.Private.DataContractSerialization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Private.Uri.dll">
+      <PackagePath>ShellHost\System.Private.Uri.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Private.Xml.Linq.dll">
+      <PackagePath>ShellHost\System.Private.Xml.Linq.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Private.Xml.dll">
+      <PackagePath>ShellHost\System.Private.Xml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Reflection.DispatchProxy.dll">
+      <PackagePath>ShellHost\System.Reflection.DispatchProxy.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Reflection.Emit.ILGeneration.dll">
+      <PackagePath>ShellHost\System.Reflection.Emit.ILGeneration.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Reflection.Emit.Lightweight.dll">
+      <PackagePath>ShellHost\System.Reflection.Emit.Lightweight.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Reflection.Emit.dll">
+      <PackagePath>ShellHost\System.Reflection.Emit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Reflection.Extensions.dll">
+      <PackagePath>ShellHost\System.Reflection.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Reflection.Metadata.dll">
+      <PackagePath>ShellHost\System.Reflection.Metadata.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Reflection.Primitives.dll">
+      <PackagePath>ShellHost\System.Reflection.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Reflection.TypeExtensions.dll">
+      <PackagePath>ShellHost\System.Reflection.TypeExtensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Reflection.dll">
+      <PackagePath>ShellHost\System.Reflection.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Resources.Reader.dll">
+      <PackagePath>ShellHost\System.Resources.Reader.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Resources.ResourceManager.dll">
+      <PackagePath>ShellHost\System.Resources.ResourceManager.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Resources.Writer.dll">
+      <PackagePath>ShellHost\System.Resources.Writer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>ShellHost\System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Runtime.CompilerServices.VisualC.dll">
+      <PackagePath>ShellHost\System.Runtime.CompilerServices.VisualC.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Runtime.Extensions.dll">
+      <PackagePath>ShellHost\System.Runtime.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Runtime.Handles.dll">
+      <PackagePath>ShellHost\System.Runtime.Handles.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Runtime.InteropServices.RuntimeInformation.dll">
+      <PackagePath>ShellHost\System.Runtime.InteropServices.RuntimeInformation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Runtime.InteropServices.dll">
+      <PackagePath>ShellHost\System.Runtime.InteropServices.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Runtime.Intrinsics.dll">
+      <PackagePath>ShellHost\System.Runtime.Intrinsics.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Runtime.Loader.dll">
+      <PackagePath>ShellHost\System.Runtime.Loader.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Runtime.Numerics.dll">
+      <PackagePath>ShellHost\System.Runtime.Numerics.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Runtime.Serialization.Formatters.dll">
+      <PackagePath>ShellHost\System.Runtime.Serialization.Formatters.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Runtime.Serialization.Json.dll">
+      <PackagePath>ShellHost\System.Runtime.Serialization.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Runtime.Serialization.Primitives.dll">
+      <PackagePath>ShellHost\System.Runtime.Serialization.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Runtime.Serialization.Xml.dll">
+      <PackagePath>ShellHost\System.Runtime.Serialization.Xml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Runtime.Serialization.dll">
+      <PackagePath>ShellHost\System.Runtime.Serialization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Runtime.dll">
+      <PackagePath>ShellHost\System.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Security.AccessControl.dll">
+      <PackagePath>ShellHost\System.Security.AccessControl.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Security.Claims.dll">
+      <PackagePath>ShellHost\System.Security.Claims.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Security.Cryptography.Algorithms.dll">
+      <PackagePath>ShellHost\System.Security.Cryptography.Algorithms.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Security.Cryptography.Cng.dll">
+      <PackagePath>ShellHost\System.Security.Cryptography.Cng.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Security.Cryptography.Csp.dll">
+      <PackagePath>ShellHost\System.Security.Cryptography.Csp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Security.Cryptography.Encoding.dll">
+      <PackagePath>ShellHost\System.Security.Cryptography.Encoding.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Security.Cryptography.OpenSsl.dll">
+      <PackagePath>ShellHost\System.Security.Cryptography.OpenSsl.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Security.Cryptography.Primitives.dll">
+      <PackagePath>ShellHost\System.Security.Cryptography.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Security.Cryptography.X509Certificates.dll">
+      <PackagePath>ShellHost\System.Security.Cryptography.X509Certificates.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Security.Principal.Windows.dll">
+      <PackagePath>ShellHost\System.Security.Principal.Windows.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Security.Principal.dll">
+      <PackagePath>ShellHost\System.Security.Principal.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Security.SecureString.dll">
+      <PackagePath>ShellHost\System.Security.SecureString.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Security.dll">
+      <PackagePath>ShellHost\System.Security.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.ServiceModel.Web.dll">
+      <PackagePath>ShellHost\System.ServiceModel.Web.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.ServiceProcess.dll">
+      <PackagePath>ShellHost\System.ServiceProcess.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Text.Encoding.CodePages.dll">
+      <PackagePath>ShellHost\System.Text.Encoding.CodePages.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Text.Encoding.Extensions.dll">
+      <PackagePath>ShellHost\System.Text.Encoding.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Text.Encoding.dll">
+      <PackagePath>ShellHost\System.Text.Encoding.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Text.Encodings.Web.dll">
+      <PackagePath>ShellHost\System.Text.Encodings.Web.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Text.Json.dll">
+      <PackagePath>ShellHost\System.Text.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Text.RegularExpressions.dll">
+      <PackagePath>ShellHost\System.Text.RegularExpressions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Threading.Channels.dll">
+      <PackagePath>ShellHost\System.Threading.Channels.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Threading.Overlapped.dll">
+      <PackagePath>ShellHost\System.Threading.Overlapped.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Threading.Tasks.Dataflow.dll">
+      <PackagePath>ShellHost\System.Threading.Tasks.Dataflow.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Threading.Tasks.Extensions.dll">
+      <PackagePath>ShellHost\System.Threading.Tasks.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Threading.Tasks.Parallel.dll">
+      <PackagePath>ShellHost\System.Threading.Tasks.Parallel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Threading.Tasks.dll">
+      <PackagePath>ShellHost\System.Threading.Tasks.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Threading.Thread.dll">
+      <PackagePath>ShellHost\System.Threading.Thread.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Threading.ThreadPool.dll">
+      <PackagePath>ShellHost\System.Threading.ThreadPool.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Threading.Timer.dll">
+      <PackagePath>ShellHost\System.Threading.Timer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Threading.dll">
+      <PackagePath>ShellHost\System.Threading.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Transactions.Local.dll">
+      <PackagePath>ShellHost\System.Transactions.Local.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Transactions.dll">
+      <PackagePath>ShellHost\System.Transactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.ValueTuple.dll">
+      <PackagePath>ShellHost\System.ValueTuple.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Web.HttpUtility.dll">
+      <PackagePath>ShellHost\System.Web.HttpUtility.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Web.dll">
+      <PackagePath>ShellHost\System.Web.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Windows.dll">
+      <PackagePath>ShellHost\System.Windows.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Xml.Linq.dll">
+      <PackagePath>ShellHost\System.Xml.Linq.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Xml.ReaderWriter.dll">
+      <PackagePath>ShellHost\System.Xml.ReaderWriter.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Xml.Serialization.dll">
+      <PackagePath>ShellHost\System.Xml.Serialization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Xml.XDocument.dll">
+      <PackagePath>ShellHost\System.Xml.XDocument.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Xml.XPath.XDocument.dll">
+      <PackagePath>ShellHost\System.Xml.XPath.XDocument.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Xml.XPath.dll">
+      <PackagePath>ShellHost\System.Xml.XPath.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Xml.XmlDocument.dll">
+      <PackagePath>ShellHost\System.Xml.XmlDocument.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Xml.XmlSerializer.dll">
+      <PackagePath>ShellHost\System.Xml.XmlSerializer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Xml.dll">
+      <PackagePath>ShellHost\System.Xml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.dll">
+      <PackagePath>ShellHost\System.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\WindowsBase.dll">
+      <PackagePath>ShellHost\WindowsBase.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\mscorlib.dll">
+      <PackagePath>ShellHost\mscorlib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\netstandard.dll">
+      <PackagePath>ShellHost\netstandard.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\API-MS-Win-core-xstate-l2-1-0.dll">
+      <PackagePath>ShellHost\API-MS-Win-core-xstate-l2-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\Microsoft.DiaSymReader.Native.x86.dll">
+      <PackagePath>ShellHost\Microsoft.DiaSymReader.Native.x86.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\System.Private.CoreLib.dll">
+      <PackagePath>ShellHost\System.Private.CoreLib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-console-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-console-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-console-l1-2-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-console-l1-2-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-datetime-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-datetime-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-debug-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-debug-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-errorhandling-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-errorhandling-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-file-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-file-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-file-l1-2-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-file-l1-2-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-file-l2-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-file-l2-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-handle-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-handle-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-heap-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-heap-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-interlocked-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-interlocked-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-libraryloader-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-libraryloader-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-localization-l1-2-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-localization-l1-2-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-memory-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-memory-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-namedpipe-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-namedpipe-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-processenvironment-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-processenvironment-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-processthreads-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-processthreads-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-processthreads-l1-1-1.dll">
+      <PackagePath>ShellHost\api-ms-win-core-processthreads-l1-1-1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-profile-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-profile-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-rtlsupport-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-rtlsupport-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-string-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-string-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-synch-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-synch-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-synch-l1-2-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-synch-l1-2-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-sysinfo-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-sysinfo-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-timezone-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-timezone-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-core-util-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-core-util-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-crt-conio-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-crt-conio-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-crt-convert-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-crt-convert-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-crt-environment-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-crt-environment-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-crt-filesystem-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-crt-filesystem-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-crt-heap-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-crt-heap-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-crt-locale-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-crt-locale-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-crt-math-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-crt-math-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-crt-multibyte-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-crt-multibyte-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-crt-private-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-crt-private-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-crt-process-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-crt-process-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-crt-runtime-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-crt-runtime-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-crt-stdio-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-crt-stdio-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-crt-string-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-crt-string-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-crt-time-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-crt-time-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\api-ms-win-crt-utility-l1-1-0.dll">
+      <PackagePath>ShellHost\api-ms-win-crt-utility-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\clrcompression.dll">
+      <PackagePath>ShellHost\clrcompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\clretwrc.dll">
+      <PackagePath>ShellHost\clretwrc.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\clrjit.dll">
+      <PackagePath>ShellHost\clrjit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\coreclr.dll">
+      <PackagePath>ShellHost\coreclr.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\createdump.exe">
+      <PackagePath>ShellHost\createdump.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\dbgshim.dll">
+      <PackagePath>ShellHost\dbgshim.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\hostfxr.dll">
+      <PackagePath>ShellHost\hostfxr.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\hostpolicy.dll">
+      <PackagePath>ShellHost\hostpolicy.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\mscordaccore.dll">
+      <PackagePath>ShellHost\mscordaccore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\mscordaccore_x86_x86_5.0.1021.41214.dll">
+      <PackagePath>ShellHost\mscordaccore_x86_x86_5.0.1021.41214.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\mscordbi.dll">
+      <PackagePath>ShellHost\mscordbi.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\mscorrc.dll">
+      <PackagePath>ShellHost\mscorrc.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\ucrtbase.dll">
+      <PackagePath>ShellHost\ucrtbase.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\Microsoft.Windows.SDK.NET.dll">
+      <PackagePath>ShellHost\Microsoft.Windows.SDK.NET.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\ShellHost\bin\Release\net5.0-windows10.0.19041\win-x86\msixpublish\WinRT.Runtime.dll">
+      <PackagePath>ShellHost\WinRT.Runtime.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -91,6 +767,21 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\Assets\vertix-favicon-150x150.png">
+      <PackagePath>Assets\vertix-favicon-150x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\Assets\vertix-favicon-310x150.png">
+      <PackagePath>Assets\vertix-favicon-310x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\Assets\vertix-favicon-44x44.png">
+      <PackagePath>Assets\vertix-favicon-44x44.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\Assets\vertix-favicon-50x50.png">
+      <PackagePath>Assets\vertix-favicon-50x50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\Assets\vertix-favicon-620x300.png">
+      <PackagePath>Assets\vertix-favicon-620x300.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\Assets\vertix-favicon.png">
       <PackagePath>Assets\vertix-favicon.png</PackagePath>

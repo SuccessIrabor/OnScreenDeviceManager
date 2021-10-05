@@ -130,6 +130,11 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\vertix-favicon-150x150.png" />
+    <Content Include="Assets\vertix-favicon-310x150.png" />
+    <Content Include="Assets\vertix-favicon-44x44.png" />
+    <Content Include="Assets\vertix-favicon-50x50.png" />
+    <Content Include="Assets\vertix-favicon-620x300.png" />
     <Content Include="Assets\vertix-favicon.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />

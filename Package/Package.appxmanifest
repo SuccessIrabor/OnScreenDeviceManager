@@ -12,12 +12,12 @@
   <Identity
     Name="Vertix.OnScreenDeviceManager"
     Publisher="CN=Vertix, O=Vertix, C=US"
-    Version="1.0.0.0" />
+    Version="1.0.2.0" />
 
   <Properties>
     <DisplayName>OnScreenDeviceManager</DisplayName>
     <PublisherDisplayName>Vertix</PublisherDisplayName>
-    <Logo>Images\vertix-favicon.png</Logo>
+    <Logo>Images\vertix-favicon-50x50.png</Logo>
   </Properties>
 
   <Dependencies>
@@ -37,10 +37,10 @@
         DisplayName="OnScreenDeviceManager"
         Description="Vertix.OnScreenDeviceManager"
         BackgroundColor="transparent"
-        Square150x150Logo="Images\vertix-favicon.png"
-        Square44x44Logo="Images\vertix-favicon.png">
-        <uap:DefaultTile Wide310x150Logo="Images\vertix-favicon.png" />
-        <uap:SplashScreen Image="Images\vertix-favicon.png" />
+        Square150x150Logo="Images\vertix-favicon-150x150.png"
+        Square44x44Logo="Images\vertix-favicon-44x44.png">
+        <uap:DefaultTile Wide310x150Logo="Images\vertix-favicon-310x150.png" />
+        <uap:SplashScreen Image="Images\vertix-favicon-620x300.png" />
       </uap:VisualElements>
 	  <Extensions>
 		<desktop:Extension Category="windows.fullTrustProcess" Executable="ShellHost\ShellHost.exe">
