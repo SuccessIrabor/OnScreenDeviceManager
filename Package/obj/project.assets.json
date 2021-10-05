@@ -305,8 +305,7 @@
         "type": "project",
         "framework": "UAP,Version=v10.0.19041",
         "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12",
-          "ShellHostService": "1.0.0"
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
         },
         "compile": {
           "bin/placeholder/OnScreenDeviceManager.dll": {}
@@ -323,19 +322,6 @@
         },
         "runtime": {
           "bin/placeholder/ShellHost.dll": {}
-        }
-      },
-      "ShellHostService/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.19041",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
-        },
-        "compile": {
-          "bin/placeholder/ShellHostService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShellHostService.dll": {}
         }
       }
     },
@@ -822,8 +808,7 @@
         "type": "project",
         "framework": "UAP,Version=v10.0.19041",
         "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12",
-          "ShellHostService": "1.0.0"
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
         },
         "compile": {
           "bin/placeholder/OnScreenDeviceManager.dll": {}
@@ -840,19 +825,6 @@
         },
         "runtime": {
           "bin/placeholder/ShellHost.dll": {}
-        }
-      },
-      "ShellHostService/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.19041",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
-        },
-        "compile": {
-          "bin/placeholder/ShellHostService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShellHostService.dll": {}
         }
       }
     },
@@ -1340,8 +1312,7 @@
         "type": "project",
         "framework": "UAP,Version=v10.0.19041",
         "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12",
-          "ShellHostService": "1.0.0"
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
         },
         "compile": {
           "bin/placeholder/OnScreenDeviceManager.dll": {}
@@ -1358,19 +1329,6 @@
         },
         "runtime": {
           "bin/placeholder/ShellHost.dll": {}
-        }
-      },
-      "ShellHostService/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.19041",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
-        },
-        "compile": {
-          "bin/placeholder/ShellHostService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShellHostService.dll": {}
         }
       }
     },
@@ -1858,8 +1816,7 @@
         "type": "project",
         "framework": "UAP,Version=v10.0.19041",
         "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12",
-          "ShellHostService": "1.0.0"
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
         },
         "compile": {
           "bin/placeholder/OnScreenDeviceManager.dll": {}
@@ -1876,19 +1833,6 @@
         },
         "runtime": {
           "bin/placeholder/ShellHost.dll": {}
-        }
-      },
-      "ShellHostService/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.19041",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
-        },
-        "compile": {
-          "bin/placeholder/ShellHostService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShellHostService.dll": {}
         }
       }
     },
@@ -2375,8 +2319,7 @@
         "type": "project",
         "framework": "UAP,Version=v10.0.19041",
         "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12",
-          "ShellHostService": "1.0.0"
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
         },
         "compile": {
           "bin/placeholder/OnScreenDeviceManager.dll": {}
@@ -2393,19 +2336,6 @@
         },
         "runtime": {
           "bin/placeholder/ShellHost.dll": {}
-        }
-      },
-      "ShellHostService/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.19041",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
-        },
-        "compile": {
-          "bin/placeholder/ShellHostService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShellHostService.dll": {}
         }
       }
     },
@@ -2893,8 +2823,7 @@
         "type": "project",
         "framework": "UAP,Version=v10.0.19041",
         "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12",
-          "ShellHostService": "1.0.0"
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
         },
         "compile": {
           "bin/placeholder/OnScreenDeviceManager.dll": {}
@@ -2911,19 +2840,6 @@
         },
         "runtime": {
           "bin/placeholder/ShellHost.dll": {}
-        }
-      },
-      "ShellHostService/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.19041",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
-        },
-        "compile": {
-          "bin/placeholder/ShellHostService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShellHostService.dll": {}
         }
       }
     },
@@ -3410,8 +3326,7 @@
         "type": "project",
         "framework": "UAP,Version=v10.0.19041",
         "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12",
-          "ShellHostService": "1.0.0"
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
         },
         "compile": {
           "bin/placeholder/OnScreenDeviceManager.dll": {}
@@ -3428,19 +3343,6 @@
         },
         "runtime": {
           "bin/placeholder/ShellHost.dll": {}
-        }
-      },
-      "ShellHostService/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.19041",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
-        },
-        "compile": {
-          "bin/placeholder/ShellHostService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShellHostService.dll": {}
         }
       }
     },
@@ -3928,8 +3830,7 @@
         "type": "project",
         "framework": "UAP,Version=v10.0.19041",
         "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12",
-          "ShellHostService": "1.0.0"
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
         },
         "compile": {
           "bin/placeholder/OnScreenDeviceManager.dll": {}
@@ -3946,19 +3847,6 @@
         },
         "runtime": {
           "bin/placeholder/ShellHost.dll": {}
-        }
-      },
-      "ShellHostService/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.19041",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
-        },
-        "compile": {
-          "bin/placeholder/ShellHostService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShellHostService.dll": {}
         }
       }
     }
@@ -8532,11 +8420,6 @@
       "type": "project",
       "path": "../ShellHost/ShellHost.csproj",
       "msbuildProject": "../ShellHost/ShellHost.csproj"
-    },
-    "ShellHostService/1.0.0": {
-      "type": "project",
-      "path": "../ShellHostService/ShellHostService.csproj",
-      "msbuildProject": "../ShellHostService/ShellHostService.csproj"
     }
   },
   "projectFileDependencyGroups": {

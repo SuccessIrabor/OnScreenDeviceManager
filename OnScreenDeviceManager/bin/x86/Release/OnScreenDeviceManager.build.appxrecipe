@@ -65,9 +65,6 @@
     <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\ShellHostService.winmd">
-      <PackagePath>ShellHostService.winmd</PackagePath>
-    </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
     <ResolvedSDKReference Include="C:\Users\Dell\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">

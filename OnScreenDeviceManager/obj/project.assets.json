@@ -306,19 +306,6 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.props": {},
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
-      },
-      "ShellHostService/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.19041",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
-        },
-        "compile": {
-          "bin/placeholder/ShellHostService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShellHostService.dll": {}
-        }
       }
     },
     "UAP,Version=v10.0.19041/win10-arm": {
@@ -804,19 +791,6 @@
         "build": {
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.props": {},
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
-        }
-      },
-      "ShellHostService/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.19041",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
-        },
-        "compile": {
-          "bin/placeholder/ShellHostService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShellHostService.dll": {}
         }
       }
     },
@@ -1305,19 +1279,6 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.props": {},
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
-      },
-      "ShellHostService/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.19041",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
-        },
-        "compile": {
-          "bin/placeholder/ShellHostService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShellHostService.dll": {}
-        }
       }
     },
     "UAP,Version=v10.0.19041/win10-arm64-aot": {
@@ -1805,19 +1766,6 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.props": {},
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
-      },
-      "ShellHostService/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.19041",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
-        },
-        "compile": {
-          "bin/placeholder/ShellHostService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShellHostService.dll": {}
-        }
       }
     },
     "UAP,Version=v10.0.19041/win10-x64": {
@@ -2303,19 +2251,6 @@
         "build": {
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.props": {},
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
-        }
-      },
-      "ShellHostService/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.19041",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
-        },
-        "compile": {
-          "bin/placeholder/ShellHostService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShellHostService.dll": {}
         }
       }
     },
@@ -2804,19 +2739,6 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.props": {},
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
-      },
-      "ShellHostService/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.19041",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
-        },
-        "compile": {
-          "bin/placeholder/ShellHostService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShellHostService.dll": {}
-        }
       }
     },
     "UAP,Version=v10.0.19041/win10-x86": {
@@ -3302,19 +3224,6 @@
         },
         "native": {
           "runtimes/win10-x86/nativeassets/uap10.0.15138/clrcompression.dll": {}
-        }
-      },
-      "ShellHostService/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.19041",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
-        },
-        "compile": {
-          "bin/placeholder/ShellHostService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShellHostService.dll": {}
         }
       }
     },
@@ -3802,19 +3711,6 @@
         "build": {
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.props": {},
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
-        }
-      },
-      "ShellHostService/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.19041",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.12"
-        },
-        "compile": {
-          "bin/placeholder/ShellHostService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShellHostService.dll": {}
         }
       }
     }
@@ -8255,17 +8151,11 @@
         "runtimes/win10-x86/lib/uap10.0.15138/netstandard.dll",
         "runtimes/win10-x86/nativeassets/uap10.0.15138/clrcompression.dll"
       ]
-    },
-    "ShellHostService/1.0.0": {
-      "type": "project",
-      "path": "../ShellHostService/ShellHostService.csproj",
-      "msbuildProject": "../ShellHostService/ShellHostService.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "UAP,Version=v10.0.19041": [
-      "Microsoft.NETCore.UniversalWindowsPlatform >= 6.2.12",
-      "ShellHostService >= 1.0.0"
+      "Microsoft.NETCore.UniversalWindowsPlatform >= 6.2.12"
     ]
   },
   "packageFolders": {
@@ -8301,11 +8191,7 @@
       },
       "frameworks": {
         "uap10.0.19041": {
-          "projectReferences": {
-            "C:\\Users\\Dell\\source\\repos\\OnScreenDeviceManager\\ShellHostService\\ShellHostService.csproj": {
-              "projectPath": "C:\\Users\\Dell\\source\\repos\\OnScreenDeviceManager\\ShellHostService\\ShellHostService.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },

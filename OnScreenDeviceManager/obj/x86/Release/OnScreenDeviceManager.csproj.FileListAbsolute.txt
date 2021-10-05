@@ -28,7 +28,6 @@ C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\R
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\resources.pri
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\SafeTypes.g.cs
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\SharedStubs.g.cs
-C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ilc\ShellHostService.winmd
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\OnScreenDeviceManager.build.appxrecipe
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\clrcompression.dll
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\Microsoft.CSharp.dll
@@ -199,9 +198,6 @@ C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\R
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\WindowsBase.dll
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\mscorlib.dll
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\netstandard.dll
-C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ShellHostService.winmd
-C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ShellHostService.pdb
-C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\bin\x86\Release\ShellHostService.pri
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\OnScreenDeviceManager.csproj.AssemblyReference.cache
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\App.g.i.cs
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\App.g.cs
@@ -215,7 +211,6 @@ C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\R
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\XamlSaveStateFile.xml
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\OnScreenDeviceManager.csproj.CoreCompileInputs.cache
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\OnScreenDeviceManager.csproj.CopyComplete
-C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ShellHostService.pri.xml
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\OnScreenDeviceManager.exe
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\OnScreenDeviceManager.pdb
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ResourceHandlingTask.state
@@ -240,7 +235,6 @@ C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\R
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\OnScreenDeviceManager.xr.xml
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\AppxManifest.xml
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\OnScreenDeviceManager.pdb
-C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\ShellHostService.pdb
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\OnScreenDeviceManager.exe
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\Microsoft.CSharp.dll
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\Microsoft.VisualBasic.dll
@@ -410,7 +404,6 @@ C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\R
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\WindowsBase.dll
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\mscorlib.dll
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\netstandard.dll
-C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\ShellHostService.winmd
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\resources.pri
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\in\clrcompression.dll
@@ -487,8 +480,6 @@ C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\R
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\intermediate\ILTransformed\OnScreenDeviceManager.metadata
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\intermediate\ILTransformed\OnScreenDeviceManager.reflectionlog.csv
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\intermediate\ILTransformed\OnScreenDeviceManager.res
-C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\intermediate\ILTransformed\ShellHostService.ildll
-C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\intermediate\ILTransformed\ShellHostService.ilpdb
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ildll
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ilpdb
 C:\Users\Dell\source\repos\OnScreenDeviceManager\OnScreenDeviceManager\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ildll

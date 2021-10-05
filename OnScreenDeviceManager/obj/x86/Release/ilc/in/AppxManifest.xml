@@ -38,15 +38,6 @@
   <Capabilities>
     <Capability Name="internetClient" />
   </Capabilities>
-  <Extensions>
-    <Extension Category="windows.activatableClass.inProcessServer">
-      <InProcessServer>
-        <Path>CLRHost.dll</Path>
-        <ActivatableClass ActivatableClassId="ShellHostService.IPC" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="ShellHostService.ConnectionContainer" ThreadingModel="both" />
-      </InProcessServer>
-    </Extension>
-  </Extensions>
   <build:Metadata>
     <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v5.0" />
     <build:Item Name="VisualStudio" Version="16.0" />
